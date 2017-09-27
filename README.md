@@ -7,4 +7,5 @@ How to run?
 
 Just run the `run_me*.bat`
 
-Code is a littlebit of a mess but it works!
+Code is a mess but it works!
+https://docs.google.com/presentation/d/1DIpF_YPbREpeIh9WK5UEZSvc1GwRqu2AK-fikWWVJpY/edit?usp=sharing
